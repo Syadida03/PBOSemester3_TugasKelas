@@ -15,7 +15,7 @@ public class Buku {
         System.out.println();
 
         // 3. Menguji Constructor lengkap (Judul, Pengarang, Tahun Terbit)
-        Buku buku3 = new Buku("Pemrograman Berorientasi Objek", "Lalan Jaelani", 2026);
+        Buku buku3 = new Buku("Pemrograman Berorientasi Objek", "Syadida", 2026);
         System.out.println("--- Informasi Buku 3 (Lengkap) ---");
         buku3.tampilkanInfo();
     }
